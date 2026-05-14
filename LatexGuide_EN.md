@@ -319,7 +319,7 @@ Mathematical function names should use an upright Roman font, not the italic var
 | `\log` | $\log$ | `\ln` | $\ln$ | `\min` | $\min$ | `\max` | $\max$ |
 | `\det` | $\det$ | `\ker` | $\ker$ | `\lim` | $\lim$ | `\inf` | $\inf$ |
 
-* **Custom Functions**: If not built-in, use `\operatorname{softmax}` → $\operatorname{softmax}$.
+* **Custom Functions**: If not built-in, use `\operatorname{softmax}` → $\mathrm{softmax}$.
 
 **Example**:
 ```latex

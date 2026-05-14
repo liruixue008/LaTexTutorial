@@ -319,7 +319,7 @@ P = \left( \sum_{i=1}^n x_i \right)^2 \le n \sum_{i=1}^n x_i^2
 | `\log` | $\log$ | `\ln` | $\ln$ | `\min` | $\min$ | `\max` | $\max$ |
 | `\det` | $\det$ | `\ker` | $\ker$ | `\lim` | $\lim$ | `\inf` | $\inf$ |
 
-* **自定义函数**：若内置没有，可用 `\operatorname{softmax}` → $\operatorname{softmax}$。
+* **自定义函数**：若内置没有，可用 `\operatorname{softmax}` → $\mathrm{softmax}$。
 
 **示例**:
 ```latex
