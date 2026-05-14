@@ -1,4 +1,4 @@
-# LaTexTutorial
+# LaTexNoteBook
 LaTeX入门教程合集 | A Collection of LaTeX Beginner Tutorials
 
 - [中文版教程 (Chinese Version)](./LatexGuide_CN.md)
